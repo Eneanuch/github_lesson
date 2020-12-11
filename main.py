@@ -13,5 +13,5 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 print(1)
-
+print(12)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
